@@ -1,6 +1,5 @@
 # Balanced Binary Tree Word Finder
-Program that reads a file and can answer queries of whether certain words appear in it. The number of times each word appears in the text can be seen too, among other information. Run "BTreeWordFinder.py" for the binary tree approach or "BalancedBTreeWordFinder.py" for the balanced binary tree model.
-
+Program that reads a file and can answer queries of whether certain words appear in it. The number of times each word appears in the text can be seen too, among other information. Run "BTreeWordFinder.py" for the binary tree approach or "BalancedBTreeWordFinder.py" for the balanced binary tree model. The usage of tree-based data structures intends to speed up the organized storage and checking of words.
 
 | | | |
 |-|-|-|
