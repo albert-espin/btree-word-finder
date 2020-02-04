@@ -11,5 +11,5 @@ Program that reads a file and can answer queries of whether certain words appear
 | **Date**  | May 2015  |
 | **Code license**  | MIT |
 | **Report license**  | Creative Commons Attribution, Non-Commercial, Non-Derivative |
-| **Text files license**  | Not owned by the authors of this work, original sources are not known but may be these: [large_text.txt](algs4.cs.princeton.edu/32bst), [small_text.txt](https://en.wikipedia.org/wiki/Binary_search_tree), [dictionart.txt](www.public.asu.edu/~dgilfill/ferguson/ASPSITE/DICTIONARY)  |
+| **Text files license**  | Not owned by the authors of this work, original sources are not known but may be these: [large_text.txt](https://algs4.cs.princeton.edu/32bst), [small_text.txt](https://en.wikipedia.org/wiki/Binary_search_tree), [dictionary.txt](https://www.public.asu.edu/~dgilfill/ferguson/ASPSITE/DICTIONARY)  |
 
